@@ -71,7 +71,7 @@ load_and_clean_data = function(file_path) {
 }
 
 # Load data
-weather_data = load_and_clean_data("D:/kuliah UT/semester 6/tugas3/visualisasi data/Tugas3-weather.xlsx")
+weather_data = load_and_clean_data("Tugas3-weather.xlsx")
 
 # Debug info
 cat("Data loaded successfully:\n")
